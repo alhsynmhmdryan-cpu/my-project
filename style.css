@@ -1,0 +1,49 @@
+html,body,h1,ul{
+    margin: 0;
+    padding: 0;
+
+}
+#container{
+
+    background-color: blueviolet;
+    border: 4px solid black;
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+h1{
+    color: blanchedalmond;
+    margin-top: 15px;
+    text-decoration: underline;
+    border: 4px solid black;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+img{
+    border: 4px solid black;
+}
+#first-p{
+    margin-top: 15px;
+    color: chartreuse;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+p{
+    color: blue;
+} 
+hr{
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+}
+ul{
+    list-style: none;
+}
+span{
+    font-weight: bold;
+}
